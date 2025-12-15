@@ -16,12 +16,23 @@ ToxiGuard is designed for educational and demonstration purposes, showcasing how
 
  Important Instructions:
 
-- This system   does not guarantee 100% accuracy  . Results are based on patterns and sentiment scores.
-- Do   not   rely on the system for legal, psychological, or professional moderation decisions.
-- Avoid submitting sensitive, private, or personal information.
-- The toxicity detection is intended for   educational use and project demonstration only  .
-- Performance may vary depending on message length, language, and slang usage.
-- When deploying online, ensure proper security configurations and input validation.
-- Always review and test the system locally before public deployment.
+- This system is for   educational and demonstration purposes only  .
+- Toxicity results are   not 100% accurate   and should not be used for legal or professional decisions.
+- Do   not   enter personal, sensitive, or confidential information.
+- The system analyzes text based on sentiment analysis and predefined toxic patterns.
+- Messages may be marked toxic due to slang, strong emotions, or context limitations.
+- Always test the system locally before deploying it online.
+- Proper internet connection is required for the system to work correctly.
+- Use responsibly and ethically.
 
----
+How to Use the System
+
+1. Open the ToxiGuard website.
+2. Locate the   text input box   on the page.
+3. Type or paste a chat message you want to analyze.
+4. Click the   Analyze   or   Check Toxicity   button.
+5. Wait for the system to process the message.
+6. View the result displayed on the screen:
+ Safe   – The message contains no toxic content.
+ Toxic   – The message contains offensive, harmful, or aggressive language.
+ Questionable - The message may contain mild offensive language, slang, or unclear context. Review carefully.
